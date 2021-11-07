@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Learn Kotlin</string>
+    <string name="learn_kotlin_on_the_fly">Learn Kotlin on the fly</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="next">Next</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+</resources>
